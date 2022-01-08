@@ -2,4 +2,4 @@
 
 An unique dataset created using webscraping tools- BeautifulSoup and other libraries.
 
-Will be updated soon.
+Please see [this repostory for the complete version.](https://github.com/ashwin2k/Kollywood-Dataset-with-prediction-)
